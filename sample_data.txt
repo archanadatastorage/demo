@@ -1,0 +1,27 @@
+{"CreatedTime": "2019-02-05 10:02:00", "Type": "BUY", "Amount": 800, "BrokerCode": "ABC"}
+{"CreatedTime": "2019-02-05 10:02:00", "Type": "BUY", "Amount": 500, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:03:00", "Type": "SELL", "Amount": 600, "BrokerCode": "ABC"}
+
+{"CreatedTime": "2019-02-05 10:10:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABC"}
+
+{"CreatedTime": "2019-02-05 10:04:00", "Type": "SELL", "Amount": 600, "BrokerCode": "ABX"}
+
+{"CreatedTime": "2019-02-05 10:14:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:15:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:14:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABC"}
+{"CreatedTime": "2019-02-05 10:15:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABX"}
+----------------
+{"CreatedTime": "2019-02-05 10:55:00", "Type": "BUY", "Amount": 800, "BrokerCode": "ABC"}
+{"CreatedTime": "2019-02-05 10:57:00", "Type": "BUY", "Amount": 500, "BrokerCode": "ABX"}
+
+late data
+{"CreatedTime": "2019-02-05 10:53:00", "Type": "SELL", "Amount": 600, "BrokerCode": "ABC"}
+
+{"CreatedTime": "2019-02-05 11:02:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABC"}
+
+{"CreatedTime": "2019-02-05 11:17:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABC"}
+{"CreatedTime": "2019-02-05 11:37:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABC"}
+
+
+
+
